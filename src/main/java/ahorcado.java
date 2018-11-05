@@ -1,13 +1,13 @@
 import java.util.Scanner;
-
+//package unsis.com;
 /**
- * User: Daniel Humberto Ramírez Juárez
+ * User: Daniel Humberto Ram&iacute;rez Ju&aacute;rez
  * Date: 05/11/18 12:18
  */
-public class main {
+public class ahorcado {
 
     public static void main(String[] args) {
-        Scanner s = new Scanner(System.in);
+        Scanner s = new Scanne(System.in);
         int vidas = 6;
         String palabra;
         int aciertos = 0;
