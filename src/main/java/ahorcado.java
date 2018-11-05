@@ -24,6 +24,7 @@ public class ahorcado {
 
         for (int i = 0; i < tamanio; i++) {
             respuesta[i] = 'X';
+            &/System.out.println(1);
         }
 
 
