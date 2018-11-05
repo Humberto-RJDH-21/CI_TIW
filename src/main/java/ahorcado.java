@@ -27,7 +27,7 @@ public class ahorcado {
             //System.out.println(1);
         }
 
-
+Mi error atte Gab
         while (aciertos != tamanio && vidas != 0) {
             System.out.println("=========AHORCADO :)==========          VIDAS="+vidas +" Aciertos= "+aciertos);
             dibujar(vidas);
