@@ -8,7 +8,6 @@ public class ahorcado {
 
     public static void main(String[] args) {
 	//error
-        Scanner s = new Scanner(System.in);
         int vidas = 6;
         String palabra;
         int aciertos = 0;
