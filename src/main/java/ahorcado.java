@@ -30,7 +30,7 @@ public class ahorcado {
         while (aciertos != tamanio && vidas != 0) {
             System.out.println("=========AHORCADO :)==========          VIDAS="+vidas +" Aciertos= "+aciertos);
             dibujar(vidas);
-            System.out.println("");
+            System.out.println("")
             for (int i = 0; i < tamanio; i++) {
 
                 System.out.print("__" + respuesta[i] + "___  ");
