@@ -7,6 +7,7 @@ import java.util.Scanner;
 public class ahorcado {
 
     public static void main(String[] args) {
+	error 1	
 	Scanner s = new Scanner(System.in);
         int vidas = 6;
         String palabra;
